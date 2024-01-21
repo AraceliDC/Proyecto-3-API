@@ -5,3 +5,9 @@ button{
     padding: 10px;
     color: azure;
 }
+
+.contenedor{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(177, 177, 70);
+}
